@@ -1,0 +1,21 @@
+{
+  "name": "d1_whiteboxtesting",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UCRS H1 E2E tests (Cypress) against the tiny Flask UI",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "web:start": "python -m src.webapp",
+    "cypress": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.5.0"
+  }
+}

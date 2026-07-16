@@ -1,0 +1,6 @@
+Credits: Under6, 6to12, 13to24, Above24
+Prerequisite: Met, Not_Met
+Mode: Online, On_campus, Hybrid
+Timetable_Clash: Yes, No
+Course: Core, Elective
+Seat_Available: Yes, No

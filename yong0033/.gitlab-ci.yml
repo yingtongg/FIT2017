@@ -1,0 +1,42 @@
+image: python:3.12
+
+before_script:
+  - python -m venv venv
+  - pip install --upgrade pip
+  - . venv/bin/activate
+  - pip install -r requirements.txt
+
+lint-src:
+  tags:
+    - fit2107
+  script:
+    - cd ./bat
+    - pylint src
+
+lint-tests:
+  tags:
+    - fit2107
+  script:
+    - cd ./bat
+    - pylint tests
+
+style-src:
+  tags:
+    - fit2107
+  script:
+    - cd ./bat
+    - pycodestyle src
+
+style-tests:
+  tags:
+    - fit2107
+  script:
+    - cd ./bat
+    - pycodestyle tests
+
+test:
+  tags:
+    - fit2107
+  script:
+    - cd ./bat
+    - python -m unittest -v

@@ -1,0 +1,14 @@
+ItemType	Age	LoanLength(days)	Fees	GardeningTraining	CarpentryTraining
+Book	Age18to89	2	Yes	NotCompleted	Completed
+Carpentry	Above90	7	No	N/A	Completed
+Carpentry	Under18	14	Yes	Completed	N/A
+Gardening	Under18	7	No	NotCompleted	NotCompleted
+Book	Above90	14	Yes	N/A	NotCompleted
+Gardening	Above90	2	No	Completed	N/A
+Book	Above90	7	Yes	NotCompleted	N/A
+Carpentry	Age18to89	2	No	Completed	NotCompleted
+Gardening	Age18to89	2	No	N/A	N/A
+Book	Under18	2	No	Completed	Completed
+Gardening	Age18to89	7	Yes	Completed	Completed
+Carpentry	Age18to89	14	No	NotCompleted	Completed
+Gardening	Under18	14	No	N/A	NotCompleted

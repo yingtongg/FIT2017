@@ -1,0 +1,2585 @@
+[
+  {
+    "student_id": 1,
+    "name": "Student001",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 2,
+    "name": "Student002",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 3,
+    "name": "Student003",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 4,
+    "name": "Student004",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 5,
+    "name": "Student005",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 6,
+    "name": "Student006",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 7,
+    "name": "Student007",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 8,
+    "name": "Student008",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 9,
+    "name": "Student009",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 10,
+    "name": "Student010",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 11,
+    "name": "Student011",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 12,
+    "name": "Student012",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 13,
+    "name": "Student013",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 14,
+    "name": "Student014",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 15,
+    "name": "Student015",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1002",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 16,
+    "name": "Student016",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 17,
+    "name": "Student017",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 18,
+    "name": "Student018",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 19,
+    "name": "Student019",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 20,
+    "name": "Student020",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 21,
+    "name": "Student021",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 22,
+    "name": "Student022",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 23,
+    "name": "Student023",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 24,
+    "name": "Student024",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 25,
+    "name": "Student025",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 26,
+    "name": "Student026",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 27,
+    "name": "Student027",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 28,
+    "name": "Student028",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 29,
+    "name": "Student029",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 30,
+    "name": "Student030",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1047",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 31,
+    "name": "Student031",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 32,
+    "name": "Student032",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 33,
+    "name": "Student033",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 34,
+    "name": "Student034",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 35,
+    "name": "Student035",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 36,
+    "name": "Student036",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 37,
+    "name": "Student037",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 38,
+    "name": "Student038",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 39,
+    "name": "Student039",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 40,
+    "name": "Student040",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT1047",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 41,
+    "name": "Student041",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 42,
+    "name": "Student042",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 43,
+    "name": "Student043",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 44,
+    "name": "Student044",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 45,
+    "name": "Student045",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1002",
+      "FIT1047",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 46,
+    "name": "Student046",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 47,
+    "name": "Student047",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 48,
+    "name": "Student048",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 49,
+    "name": "Student049",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 50,
+    "name": "Student050",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": true
+  },
+  {
+    "student_id": 51,
+    "name": "Student051",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 52,
+    "name": "Student052",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 53,
+    "name": "Student053",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 54,
+    "name": "Student054",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 55,
+    "name": "Student055",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 56,
+    "name": "Student056",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2099",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 57,
+    "name": "Student057",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 58,
+    "name": "Student058",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 59,
+    "name": "Student059",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 60,
+    "name": "Student060",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT1047",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 61,
+    "name": "Student061",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 62,
+    "name": "Student062",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 63,
+    "name": "Student063",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2099",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 64,
+    "name": "Student064",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 65,
+    "name": "Student065",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 66,
+    "name": "Student066",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 67,
+    "name": "Student067",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 68,
+    "name": "Student068",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 69,
+    "name": "Student069",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 70,
+    "name": "Student070",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1047",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 71,
+    "name": "Student071",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 72,
+    "name": "Student072",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2107",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 73,
+    "name": "Student073",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 74,
+    "name": "Student074",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 75,
+    "name": "Student075",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1002",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 76,
+    "name": "Student076",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 77,
+    "name": "Student077",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 78,
+    "name": "Student078",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 79,
+    "name": "Student079",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 80,
+    "name": "Student080",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT1047",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 81,
+    "name": "Student081",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 82,
+    "name": "Student082",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 83,
+    "name": "Student083",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 84,
+    "name": "Student084",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 85,
+    "name": "Student085",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 86,
+    "name": "Student086",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 87,
+    "name": "Student087",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 88,
+    "name": "Student088",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 89,
+    "name": "Student089",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 90,
+    "name": "Student090",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1047",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 91,
+    "name": "Student091",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 92,
+    "name": "Student092",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 93,
+    "name": "Student093",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 94,
+    "name": "Student094",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 95,
+    "name": "Student095",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 96,
+    "name": "Student096",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 97,
+    "name": "Student097",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 98,
+    "name": "Student098",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 99,
+    "name": "Student099",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 100,
+    "name": "Student100",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": true
+  },
+  {
+    "student_id": 101,
+    "name": "Student101",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 102,
+    "name": "Student102",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 103,
+    "name": "Student103",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 104,
+    "name": "Student104",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 105,
+    "name": "Student105",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1002",
+      "FIT1047",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 106,
+    "name": "Student106",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 107,
+    "name": "Student107",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 108,
+    "name": "Student108",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 109,
+    "name": "Student109",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 110,
+    "name": "Student110",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 111,
+    "name": "Student111",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 112,
+    "name": "Student112",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2099",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 113,
+    "name": "Student113",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 114,
+    "name": "Student114",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 115,
+    "name": "Student115",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 116,
+    "name": "Student116",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 117,
+    "name": "Student117",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 118,
+    "name": "Student118",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 119,
+    "name": "Student119",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 120,
+    "name": "Student120",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT1047",
+      "FIT2004",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 121,
+    "name": "Student121",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 122,
+    "name": "Student122",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 123,
+    "name": "Student123",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 124,
+    "name": "Student124",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 125,
+    "name": "Student125",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 126,
+    "name": "Student126",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004",
+      "FIT2099",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 127,
+    "name": "Student127",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 128,
+    "name": "Student128",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 129,
+    "name": "Student129",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 130,
+    "name": "Student130",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 131,
+    "name": "Student131",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 132,
+    "name": "Student132",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 133,
+    "name": "Student133",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 134,
+    "name": "Student134",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 135,
+    "name": "Student135",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1002",
+      "FIT1047",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 136,
+    "name": "Student136",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 137,
+    "name": "Student137",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 138,
+    "name": "Student138",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 139,
+    "name": "Student139",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 140,
+    "name": "Student140",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT1047",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 141,
+    "name": "Student141",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 142,
+    "name": "Student142",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 143,
+    "name": "Student143",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 144,
+    "name": "Student144",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2107",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 145,
+    "name": "Student145",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 146,
+    "name": "Student146",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 147,
+    "name": "Student147",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 148,
+    "name": "Student148",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 149,
+    "name": "Student149",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 150,
+    "name": "Student150",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1047",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": true
+  },
+  {
+    "student_id": 151,
+    "name": "Student151",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 152,
+    "name": "Student152",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 153,
+    "name": "Student153",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 154,
+    "name": "Student154",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 155,
+    "name": "Student155",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 156,
+    "name": "Student156",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 157,
+    "name": "Student157",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 158,
+    "name": "Student158",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 159,
+    "name": "Student159",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 160,
+    "name": "Student160",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT1047",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 161,
+    "name": "Student161",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 162,
+    "name": "Student162",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 163,
+    "name": "Student163",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 164,
+    "name": "Student164",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 165,
+    "name": "Student165",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1002",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 166,
+    "name": "Student166",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 167,
+    "name": "Student167",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 168,
+    "name": "Student168",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2099",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 169,
+    "name": "Student169",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 170,
+    "name": "Student170",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 171,
+    "name": "Student171",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 172,
+    "name": "Student172",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 173,
+    "name": "Student173",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 174,
+    "name": "Student174",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 175,
+    "name": "Student175",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 176,
+    "name": "Student176",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 177,
+    "name": "Student177",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Mon12-14",
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 178,
+    "name": "Student178",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 179,
+    "name": "Student179",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 180,
+    "name": "Student180",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT1047",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Wed09-11",
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 181,
+    "name": "Student181",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 182,
+    "name": "Student182",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 183,
+    "name": "Student183",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1002"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 184,
+    "name": "Student184",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 185,
+    "name": "Student185",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 186,
+    "name": "Student186",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004"
+    ],
+    "timeslots": [
+      "Tue10-12",
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 187,
+    "name": "Student187",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 188,
+    "name": "Student188",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 189,
+    "name": "Student189",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1002",
+      "FIT2099",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Wed14-16",
+      "Mon09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 190,
+    "name": "Student190",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 191,
+    "name": "Student191",
+    "current_credits": 6,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 192,
+    "name": "Student192",
+    "current_credits": 12,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT1045",
+      "FIT2004",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 193,
+    "name": "Student193",
+    "current_credits": 18,
+    "completed_courses": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 194,
+    "name": "Student194",
+    "current_credits": 24,
+    "completed_courses": [
+      "FIT1001"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 195,
+    "name": "Student195",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1002",
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Tue12-14",
+      "Thu10-12"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 196,
+    "name": "Student196",
+    "current_credits": 6,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT2099"
+    ],
+    "timeslots": [
+      "Wed09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 197,
+    "name": "Student197",
+    "current_credits": 12,
+    "completed_courses": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 198,
+    "name": "Student198",
+    "current_credits": 18,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1002",
+      "FIT2004",
+      "FIT2014"
+    ],
+    "timeslots": [
+      "Thu10-12",
+      "Mon12-14"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 199,
+    "name": "Student199",
+    "current_credits": 24,
+    "completed_courses": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "holds": false
+  },
+  {
+    "student_id": 200,
+    "name": "Student200",
+    "current_credits": 0,
+    "completed_courses": [
+      "FIT1001",
+      "FIT1045",
+      "FIT1047",
+      "FIT2107"
+    ],
+    "timeslots": [
+      "Mon09-11"
+    ],
+    "holds": true
+  }
+]

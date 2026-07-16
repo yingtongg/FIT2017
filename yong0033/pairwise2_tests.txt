@@ -1,0 +1,13 @@
+Credits	Prerequisite	Mode	Timetable_Clash	Course	Seat_Available
+6to12	Met	Online	Yes	Core	Yes
+Above24	Not_Met	On_campus	No	Elective	No
+13to24	Met	On_campus	No	Core	Yes
+6to12	Met	On_campus	Yes	Elective	No
+13to24	Not_Met	Online	Yes	Elective	No
+Above24	Not_Met	Online	No	Core	Yes
+Under6	Met	On_campus	No	Elective	Yes
+13to24	Met	Hybrid	Yes	Core	No
+Under6	Not_Met	Hybrid	Yes	Core	No
+Under6	Met	Online	No	Elective	No
+6to12	Not_Met	Hybrid	No	Elective	Yes
+Above24	Met	Hybrid	Yes	Elective	No

@@ -1,0 +1,3214 @@
+[
+  {
+    "id": 1,
+    "code": "FIT1001",
+    "title": "Programming 1",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [
+      2
+    ],
+    "waitlist": []
+  },
+  {
+    "id": 2,
+    "code": "FIT1002",
+    "title": "Data Structures 2",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [
+      3,
+      5
+    ],
+    "waitlist": []
+  },
+  {
+    "id": 3,
+    "code": "FIT1003",
+    "title": "Algorithms 3",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 4,
+    "code": "FIT1004",
+    "title": "Systems 4",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 5,
+    "code": "FIT1005",
+    "title": "Networks 5",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [
+      2,
+      1
+    ],
+    "waitlist": []
+  },
+  {
+    "id": 6,
+    "code": "FIT1006",
+    "title": "Databases 6",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 7,
+    "code": "FIT1007",
+    "title": "Software Quality 7",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 8,
+    "code": "FIT1008",
+    "title": "AI 8",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [
+      5
+    ],
+    "waitlist": []
+  },
+  {
+    "id": 9,
+    "code": "FIT1009",
+    "title": "Security 9",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 10,
+    "code": "FIT1010",
+    "title": "Foundations 10",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 11,
+    "code": "FIT1011",
+    "title": "Programming 11",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 12,
+    "code": "FIT1012",
+    "title": "Data Structures 12",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 13,
+    "code": "FIT1013",
+    "title": "Algorithms 13",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 14,
+    "code": "FIT1014",
+    "title": "Systems 14",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 15,
+    "code": "FIT1015",
+    "title": "Networks 15",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 16,
+    "code": "FIT1016",
+    "title": "Databases 16",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 17,
+    "code": "FIT1017",
+    "title": "Software Quality 17",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 18,
+    "code": "FIT1018",
+    "title": "AI 18",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 19,
+    "code": "FIT1019",
+    "title": "Security 19",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 20,
+    "code": "FIT1020",
+    "title": "Foundations 20",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 21,
+    "code": "FIT1021",
+    "title": "Programming 21",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 22,
+    "code": "FIT1022",
+    "title": "Data Structures 22",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 23,
+    "code": "FIT1023",
+    "title": "Algorithms 23",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 24,
+    "code": "FIT1024",
+    "title": "Systems 24",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 25,
+    "code": "FIT1025",
+    "title": "Networks 25",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 26,
+    "code": "FIT1026",
+    "title": "Databases 26",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 27,
+    "code": "FIT1027",
+    "title": "Software Quality 27",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 28,
+    "code": "FIT1028",
+    "title": "AI 28",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 29,
+    "code": "FIT1029",
+    "title": "Security 29",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 30,
+    "code": "FIT1030",
+    "title": "Foundations 30",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 31,
+    "code": "FIT1031",
+    "title": "Programming 31",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 32,
+    "code": "FIT1032",
+    "title": "Data Structures 32",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 33,
+    "code": "FIT1033",
+    "title": "Algorithms 33",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 34,
+    "code": "FIT1034",
+    "title": "Systems 34",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 35,
+    "code": "FIT1035",
+    "title": "Networks 35",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 36,
+    "code": "FIT1036",
+    "title": "Databases 36",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 37,
+    "code": "FIT1037",
+    "title": "Software Quality 37",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 38,
+    "code": "FIT1038",
+    "title": "AI 38",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 39,
+    "code": "FIT1039",
+    "title": "Security 39",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 40,
+    "code": "FIT1040",
+    "title": "Foundations 40",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 41,
+    "code": "FIT1041",
+    "title": "Programming 41",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1031"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 42,
+    "code": "FIT1042",
+    "title": "Data Structures 42",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1032"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 43,
+    "code": "FIT1043",
+    "title": "Algorithms 43",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1033"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 44,
+    "code": "FIT1044",
+    "title": "Systems 44",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1034"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 45,
+    "code": "FIT1045",
+    "title": "Networks 45",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1035",
+      "FIT1020"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 46,
+    "code": "FIT1046",
+    "title": "Databases 46",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1036"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 47,
+    "code": "FIT1047",
+    "title": "Software Quality 47",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1037"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 48,
+    "code": "FIT1048",
+    "title": "AI 48",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1038"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 49,
+    "code": "FIT1049",
+    "title": "Security 49",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1039"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 50,
+    "code": "FIT1050",
+    "title": "Foundations 50",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1040",
+      "FIT1025"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 51,
+    "code": "FIT1051",
+    "title": "Programming 51",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1041"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 52,
+    "code": "FIT1052",
+    "title": "Data Structures 52",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1042"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 53,
+    "code": "FIT1053",
+    "title": "Algorithms 53",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1043"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 54,
+    "code": "FIT1054",
+    "title": "Systems 54",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1044"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 55,
+    "code": "FIT1055",
+    "title": "Networks 55",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1045",
+      "FIT1030"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 56,
+    "code": "FIT1056",
+    "title": "Databases 56",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1046"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 57,
+    "code": "FIT1057",
+    "title": "Software Quality 57",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1047"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 58,
+    "code": "FIT1058",
+    "title": "AI 58",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1048"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 59,
+    "code": "FIT1059",
+    "title": "Security 59",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1049"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 60,
+    "code": "FIT1060",
+    "title": "Foundations 60",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1050",
+      "FIT1035"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 61,
+    "code": "FIT1061",
+    "title": "Programming 61",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1051"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 62,
+    "code": "FIT1062",
+    "title": "Data Structures 62",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1052"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 63,
+    "code": "FIT1063",
+    "title": "Algorithms 63",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1053"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 64,
+    "code": "FIT1064",
+    "title": "Systems 64",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1054"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 65,
+    "code": "FIT1065",
+    "title": "Networks 65",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1055",
+      "FIT1040"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 66,
+    "code": "FIT1066",
+    "title": "Databases 66",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1056"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 67,
+    "code": "FIT1067",
+    "title": "Software Quality 67",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1057"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 68,
+    "code": "FIT1068",
+    "title": "AI 68",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1058"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 69,
+    "code": "FIT1069",
+    "title": "Security 69",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1059"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 70,
+    "code": "FIT1070",
+    "title": "Foundations 70",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1060",
+      "FIT1045"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 71,
+    "code": "FIT1071",
+    "title": "Programming 71",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1061"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 72,
+    "code": "FIT1072",
+    "title": "Data Structures 72",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1062"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 73,
+    "code": "FIT1073",
+    "title": "Algorithms 73",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1063"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 74,
+    "code": "FIT1074",
+    "title": "Systems 74",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1064"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 75,
+    "code": "FIT1075",
+    "title": "Networks 75",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1065",
+      "FIT1050"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 76,
+    "code": "FIT1076",
+    "title": "Databases 76",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1066"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 77,
+    "code": "FIT1077",
+    "title": "Software Quality 77",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1067"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 78,
+    "code": "FIT1078",
+    "title": "AI 78",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1068"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 79,
+    "code": "FIT1079",
+    "title": "Security 79",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1069"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 80,
+    "code": "FIT1080",
+    "title": "Foundations 80",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1070",
+      "FIT1055"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 81,
+    "code": "FIT1081",
+    "title": "Programming 81",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1071"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 82,
+    "code": "FIT1082",
+    "title": "Data Structures 82",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1072"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 83,
+    "code": "FIT1083",
+    "title": "Algorithms 83",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1073"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 84,
+    "code": "FIT1084",
+    "title": "Systems 84",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1074"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 85,
+    "code": "FIT1085",
+    "title": "Networks 85",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1075",
+      "FIT1060"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 86,
+    "code": "FIT1086",
+    "title": "Databases 86",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1076"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 87,
+    "code": "FIT1087",
+    "title": "Software Quality 87",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1077"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 88,
+    "code": "FIT1088",
+    "title": "AI 88",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1078"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 89,
+    "code": "FIT1089",
+    "title": "Security 89",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1079"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 90,
+    "code": "FIT1090",
+    "title": "Foundations 90",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1080",
+      "FIT1065"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 91,
+    "code": "FIT1091",
+    "title": "Programming 91",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1081"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 92,
+    "code": "FIT1092",
+    "title": "Data Structures 92",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1082"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 93,
+    "code": "FIT1093",
+    "title": "Algorithms 93",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1083"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 94,
+    "code": "FIT1094",
+    "title": "Systems 94",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1084"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 95,
+    "code": "FIT1095",
+    "title": "Networks 95",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1085",
+      "FIT1070"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 96,
+    "code": "FIT1096",
+    "title": "Databases 96",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1086"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 97,
+    "code": "FIT1097",
+    "title": "Software Quality 97",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1087"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 98,
+    "code": "FIT1098",
+    "title": "AI 98",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1088"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 99,
+    "code": "FIT1099",
+    "title": "Security 99",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1089"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 100,
+    "code": "FIT1100",
+    "title": "Foundations 100",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1090",
+      "FIT1075"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 101,
+    "code": "FIT1101",
+    "title": "Programming 101",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1091"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 102,
+    "code": "FIT1102",
+    "title": "Data Structures 102",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1092"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 103,
+    "code": "FIT1103",
+    "title": "Algorithms 103",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1093"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 104,
+    "code": "FIT1104",
+    "title": "Systems 104",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1094"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 105,
+    "code": "FIT1105",
+    "title": "Networks 105",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1095",
+      "FIT1080"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 106,
+    "code": "FIT1106",
+    "title": "Databases 106",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1096"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 107,
+    "code": "FIT1107",
+    "title": "Software Quality 107",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1097"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 108,
+    "code": "FIT1108",
+    "title": "AI 108",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1098"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 109,
+    "code": "FIT1109",
+    "title": "Security 109",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1099"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 110,
+    "code": "FIT1110",
+    "title": "Foundations 110",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1100",
+      "FIT1085"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 111,
+    "code": "FIT1111",
+    "title": "Programming 111",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1101"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 112,
+    "code": "FIT1112",
+    "title": "Data Structures 112",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1102"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 113,
+    "code": "FIT1113",
+    "title": "Algorithms 113",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1103"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 114,
+    "code": "FIT1114",
+    "title": "Systems 114",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1104"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 115,
+    "code": "FIT1115",
+    "title": "Networks 115",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1105",
+      "FIT1090"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 116,
+    "code": "FIT1116",
+    "title": "Databases 116",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1106"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 117,
+    "code": "FIT1117",
+    "title": "Software Quality 117",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1107"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 118,
+    "code": "FIT1118",
+    "title": "AI 118",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1108"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 119,
+    "code": "FIT1119",
+    "title": "Security 119",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1109"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 120,
+    "code": "FIT1120",
+    "title": "Foundations 120",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1110",
+      "FIT1095"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 121,
+    "code": "FIT1121",
+    "title": "Programming 121",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1111"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 122,
+    "code": "FIT1122",
+    "title": "Data Structures 122",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1112"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 123,
+    "code": "FIT1123",
+    "title": "Algorithms 123",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1113"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 124,
+    "code": "FIT1124",
+    "title": "Systems 124",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1114"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 125,
+    "code": "FIT1125",
+    "title": "Networks 125",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1115",
+      "FIT1100"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 126,
+    "code": "FIT1126",
+    "title": "Databases 126",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1116"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 127,
+    "code": "FIT1127",
+    "title": "Software Quality 127",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1117"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 128,
+    "code": "FIT1128",
+    "title": "AI 128",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1118"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 129,
+    "code": "FIT1129",
+    "title": "Security 129",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1119"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 130,
+    "code": "FIT1130",
+    "title": "Foundations 130",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1120",
+      "FIT1105"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 131,
+    "code": "FIT1131",
+    "title": "Programming 131",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1121"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 132,
+    "code": "FIT1132",
+    "title": "Data Structures 132",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1122"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 133,
+    "code": "FIT1133",
+    "title": "Algorithms 133",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1123"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 134,
+    "code": "FIT1134",
+    "title": "Systems 134",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1124"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 135,
+    "code": "FIT1135",
+    "title": "Networks 135",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1125",
+      "FIT1110"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 136,
+    "code": "FIT1136",
+    "title": "Databases 136",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1126"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 137,
+    "code": "FIT1137",
+    "title": "Software Quality 137",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1127"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 138,
+    "code": "FIT1138",
+    "title": "AI 138",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1128"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 139,
+    "code": "FIT1139",
+    "title": "Security 139",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1129"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 140,
+    "code": "FIT1140",
+    "title": "Foundations 140",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1130",
+      "FIT1115"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 141,
+    "code": "FIT1141",
+    "title": "Programming 141",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1131"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 142,
+    "code": "FIT1142",
+    "title": "Data Structures 142",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1132"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 143,
+    "code": "FIT1143",
+    "title": "Algorithms 143",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1133"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 144,
+    "code": "FIT1144",
+    "title": "Systems 144",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1134"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 145,
+    "code": "FIT1145",
+    "title": "Networks 145",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1135",
+      "FIT1120"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 146,
+    "code": "FIT1146",
+    "title": "Databases 146",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1136"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 147,
+    "code": "FIT1147",
+    "title": "Software Quality 147",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1137"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 148,
+    "code": "FIT1148",
+    "title": "AI 148",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1138"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 149,
+    "code": "FIT1149",
+    "title": "Security 149",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1139"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 150,
+    "code": "FIT1150",
+    "title": "Foundations 150",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1140",
+      "FIT1125"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 151,
+    "code": "FIT1151",
+    "title": "Programming 151",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1141"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 152,
+    "code": "FIT1152",
+    "title": "Data Structures 152",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1142"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 153,
+    "code": "FIT1153",
+    "title": "Algorithms 153",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1143"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 154,
+    "code": "FIT1154",
+    "title": "Systems 154",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1144"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 155,
+    "code": "FIT1155",
+    "title": "Networks 155",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1145",
+      "FIT1130"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 156,
+    "code": "FIT1156",
+    "title": "Databases 156",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1146"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 157,
+    "code": "FIT1157",
+    "title": "Software Quality 157",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1147"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 158,
+    "code": "FIT1158",
+    "title": "AI 158",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1148"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 159,
+    "code": "FIT1159",
+    "title": "Security 159",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1149"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 160,
+    "code": "FIT1160",
+    "title": "Foundations 160",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1150",
+      "FIT1135"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 161,
+    "code": "FIT1161",
+    "title": "Programming 161",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1151"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 162,
+    "code": "FIT1162",
+    "title": "Data Structures 162",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1152"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 163,
+    "code": "FIT1163",
+    "title": "Algorithms 163",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1153"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 164,
+    "code": "FIT1164",
+    "title": "Systems 164",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1154"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 165,
+    "code": "FIT1165",
+    "title": "Networks 165",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1155",
+      "FIT1140"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 166,
+    "code": "FIT1166",
+    "title": "Databases 166",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1156"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 167,
+    "code": "FIT1167",
+    "title": "Software Quality 167",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1157"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 168,
+    "code": "FIT1168",
+    "title": "AI 168",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1158"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 169,
+    "code": "FIT1169",
+    "title": "Security 169",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1159"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 170,
+    "code": "FIT1170",
+    "title": "Foundations 170",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1160",
+      "FIT1145"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 171,
+    "code": "FIT1171",
+    "title": "Programming 171",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1161"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 172,
+    "code": "FIT1172",
+    "title": "Data Structures 172",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1162"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 173,
+    "code": "FIT1173",
+    "title": "Algorithms 173",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1163"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 174,
+    "code": "FIT1174",
+    "title": "Systems 174",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1164"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 175,
+    "code": "FIT1175",
+    "title": "Networks 175",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1165",
+      "FIT1150"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 176,
+    "code": "FIT1176",
+    "title": "Databases 176",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1166"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 177,
+    "code": "FIT1177",
+    "title": "Software Quality 177",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1167"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 178,
+    "code": "FIT1178",
+    "title": "AI 178",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1168"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 179,
+    "code": "FIT1179",
+    "title": "Security 179",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1169"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 180,
+    "code": "FIT1180",
+    "title": "Foundations 180",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1170",
+      "FIT1155"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 181,
+    "code": "FIT1181",
+    "title": "Programming 181",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1171"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 182,
+    "code": "FIT1182",
+    "title": "Data Structures 182",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1172"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 183,
+    "code": "FIT1183",
+    "title": "Algorithms 183",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1173"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 184,
+    "code": "FIT1184",
+    "title": "Systems 184",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1174"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 185,
+    "code": "FIT1185",
+    "title": "Networks 185",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1175",
+      "FIT1160"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 186,
+    "code": "FIT1186",
+    "title": "Databases 186",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1176"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 187,
+    "code": "FIT1187",
+    "title": "Software Quality 187",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1177"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 188,
+    "code": "FIT1188",
+    "title": "AI 188",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1178"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 189,
+    "code": "FIT1189",
+    "title": "Security 189",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1179"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 190,
+    "code": "FIT1190",
+    "title": "Foundations 190",
+    "credits": 12,
+    "capacity": 80,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1180",
+      "FIT1165"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 191,
+    "code": "FIT1191",
+    "title": "Programming 191",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1181"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 192,
+    "code": "FIT1192",
+    "title": "Data Structures 192",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1182"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 193,
+    "code": "FIT1193",
+    "title": "Algorithms 193",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1183"
+    ],
+    "timeslots": [
+      "Mon12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 194,
+    "code": "FIT1194",
+    "title": "Systems 194",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1184"
+    ],
+    "timeslots": [
+      "Tue10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 195,
+    "code": "FIT1195",
+    "title": "Networks 195",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1185",
+      "FIT1170"
+    ],
+    "timeslots": [
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 196,
+    "code": "FIT1196",
+    "title": "Databases 196",
+    "credits": 6,
+    "capacity": 30,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1186"
+    ],
+    "timeslots": [
+      "Fri09-11",
+      "Wed09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 197,
+    "code": "FIT1197",
+    "title": "Software Quality 197",
+    "credits": 6,
+    "capacity": 60,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1187"
+    ],
+    "timeslots": [
+      "Wed14-16"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 198,
+    "code": "FIT1198",
+    "title": "AI 198",
+    "credits": 6,
+    "capacity": 80,
+    "mode": "On_campus",
+    "prerequisites": [
+      "FIT1188"
+    ],
+    "timeslots": [
+      "Thu10-12"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 199,
+    "code": "FIT1199",
+    "title": "Security 199",
+    "credits": 6,
+    "capacity": 100,
+    "mode": "Online",
+    "prerequisites": [
+      "FIT1189"
+    ],
+    "timeslots": [
+      "Fri09-11"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  },
+  {
+    "id": 200,
+    "code": "FIT1200",
+    "title": "Foundations 200",
+    "credits": 12,
+    "capacity": 30,
+    "mode": "Hybrid",
+    "prerequisites": [
+      "FIT1190",
+      "FIT1175"
+    ],
+    "timeslots": [
+      "Mon09-11",
+      "Tue12-14"
+    ],
+    "enrolled": [],
+    "waitlist": []
+  }
+]

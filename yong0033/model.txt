@@ -1,0 +1,7 @@
+ItemType: Book, Gardening, Carpentry
+Age: Under18, Age18to89, Above90
+LoanLength(days): 2, 7, 14
+Fees: Yes, No
+GardeningTraining: Completed, NotCompleted, N/A
+CarpentryTraining: Completed, NotCompleted, N/A
+
